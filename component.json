@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/huya-fed/layer_mobile.git",
+    "version": "v1.0.0",
+    "name": "layer_mobile",
+    "main": "layer_mobile.js"
+}
