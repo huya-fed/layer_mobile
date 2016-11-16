@@ -154,7 +154,7 @@ Layer.prototype.action = function(config, elem){
 };
 
 var layer = {
-	v: '2.0',
+	v: '2.1',
 	index: index,
 	
 	//核心方法
