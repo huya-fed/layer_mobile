@@ -63,7 +63,7 @@
 .layui-m-layer2 .layui-m-layercont i.layui-m-layerload{-webkit-animation-delay: -.16s; animation-delay: -.16s;}
 .layui-m-layer2 .layui-m-layercont>div{line-height:22px; padding-top:7px; margin-bottom:20px; font-size: 14px;}
 .layui-m-layerbtn{display: box; display: -moz-box; display: -webkit-box; width: 100%; position:relative; height: 50px; line-height: 50px; font-size: 0; text-align:center;  border-top:1px solid #D0D0D0; background-color: #F2F2F2; border-radius: 0 0 5px 5px;}
-.layui-m-layerbtn span{position:relative; display: block; -moz-box-flex: 1; box-flex: 1; -webkit-box-flex: 1;  text-align:center; font-size:14px; border-radius: 0 0 5px 5px; cursor:pointer;}
+.layui-m-layerbtn span{position:relative; display: block; -moz-box-flex: 1; box-flex: 1; -webkit-box-flex: 1;  text-align:center; font-size:14px; border-radius: 0 0 5px 5px; cursor:pointer; width: 50%;}
 .layui-m-layerbtn span[yes]{color: #40AFFE;}
 .layui-m-layerbtn span[no]{border-right: 1px solid #D0D0D0; border-radius: 0 0 0 5px;}
 .layui-m-layerbtn span:active{background-color: #F6F6F6;}
